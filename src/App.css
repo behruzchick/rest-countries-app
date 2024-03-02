@@ -1,0 +1,15 @@
+
+.wrape{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    /* height: 100vh; */
+    justify-content: center;
+    background-color: rgb(17, 17, 51);
+}
+
+.main{
+    width: 90%;
+    /* height: 100vh; */
+    background-color: rgb(17, 17, 51);
+}

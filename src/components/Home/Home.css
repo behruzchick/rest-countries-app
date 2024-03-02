@@ -1,0 +1,17 @@
+.countries-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.country-card{
+    cursor: pointer;
+    padding: 10px;
+    background-color: rgb(35, 35, 82);
+}
+
+.country-image{
+    height: 200px;
+}
